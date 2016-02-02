@@ -1,7 +1,7 @@
-name: null
+name: luminina
 favicon: null
-layout_spectrum: 0.7734896328765899
-typography_spectrum: 0.2482716564554721
+layout_spectrum: 1
+typography_spectrum: 0.72428
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#fbf4ee'
+    - '#f7a2b5'
+    - '#000000'
+    - '#5d68aa'
+    - '#333e54'
   brandStrength: 0.9130201812367886
-  lightness: 0.18682651896961033
+  lightness: 1
   saturation: 0.05852188915014267
   rhythmicContrast: 0.27188978530466557
 purpose: []
