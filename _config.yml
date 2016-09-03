@@ -1,19 +1,4 @@
-name: luminina
-favicon: null
-layout_spectrum: 0.66503
 typography_spectrum: 0.72428
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fbf4ee'
@@ -25,4 +10,20 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.66503
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: luminina
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: L U M I N I N A
 purpose: []
