@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[luminina]]></title>
-        <description><![CDATA[luminina]]></description>
+        <title><![CDATA[L U M I N I N A]]></title>
+        <description><![CDATA[L U M I N I N A]]></description>
         <link>https://thegrid.ai/luminina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 06:07:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/luminina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea734c29-fcae-45ed-97bb-e8cdbfa9891a.jpg">]]></description>
+            <link>https://thegrid.ai/luminina/home/index.html</link>
+            <guid isPermaLink="false">1f91f7c0-2ffb-48a4-96c3-36ec0777d4d4</guid>
+            <pubDate>Thu, 01 Sep 2016 06:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51917b5d-4c93-4e68-a068-4877ca9d22cf.jpg">]]></description>
             <link>https://thegrid.ai/luminina/7e628815-6998-476c-8017-6a8e15cc5767/index.html</link>
             <guid isPermaLink="false">7e628815-6998-476c-8017-6a8e15cc5767</guid>
             <pubDate>Tue, 02 Feb 2016 08:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f8b0797476177abf9088d6152038b3d959d2d7e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/luminina/home/index.html</link>
-            <guid isPermaLink="false">1f91f7c0-2ffb-48a4-96c3-36ec0777d4d4</guid>
-            <pubDate>Tue, 02 Feb 2016 04:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
