@@ -1,4 +1,3 @@
-layout_spectrum: 0.66503
 typography_spectrum: 0.891541535500437
 color:
   brandColors:
@@ -15,16 +14,19 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.66503
 analytics:
   google: null
   facebook: null
   twitter: null
-name: luminina
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bb161dc-20d7-4cd9-bfe0-91def49eb6dc.png
+name: L U M I N I N A
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: L U M I N I N A
+title: feminine sophisticated surface patterns & graphic designs
 description: sophisticated ~ feminine ~ surface patterns ~ graphic designs
 purpose: []
